@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 AA:BB:CC:DD:EE:FF My_Laptop
+=======
+AA:BB:CC:DD:EE:FF My_Laptop
+>>>>>>> origin/master
 11:22:33:44:55:66 My_Cell_Phone
