@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WifiTeleSpy
 # Made by Fallen Archangel to scan for wifi enabled devices.
 # https://github.com/FallenArchangel/WifiTeleSpy
@@ -143,7 +142,6 @@ while True:
                 raise e
         except URLError as e:
             sleep(1)
-=======
 # WifiTeleSpy
 # Made by Fallen Archangel to scan for wifi enabled devices.
 # https://github.com/FallenArchangel/WifiTeleSpy
@@ -288,4 +286,3 @@ while True:
                 raise e
         except URLError as e:
             sleep(1)
->>>>>>> origin/master
